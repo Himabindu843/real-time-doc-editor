@@ -1,0 +1,6 @@
+.container {
+  margin: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  height: 90vh;
+}
