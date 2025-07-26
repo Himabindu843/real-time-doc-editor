@@ -8,14 +8,14 @@
 - **MENTOR** : Neela Santhosh Kumar
 
 ## Real-Time Collaborative Document Editor
-- **Project Overview**
+**Project Overview**
 - This project is a real-time collaborative document editor that allows multiple users to simultaneously edit the same document from different devices or locations.
 - It mimics the core functionality of tools like Google Docs, supporting live updates across connected clients without the need to refresh the page.
 - The editor uses WebSockets to provide low-latency synchronization between users, making collaboration smooth and instantaneous.
 - This application was built as part of a learning project to explore real-time communication, frontend-backend integration, and web-based collaborative tools.
 - It demonstrates my understanding of full-stack development, from frontend UI creation to backend socket handling, using modern technologies and best practices.
 
-- **Tools & Technologies Used**
+**Tools & Technologies Used**
 **Frontend**:
 - React.js: For building a responsive and dynamic user interface.
 - IO Client: To handle real-time communication from the frontend to the server.
