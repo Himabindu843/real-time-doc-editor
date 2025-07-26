@@ -1,6 +1,6 @@
 ## REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
--**COMPANY** : CODTECH IT SOLUTIONS
+- **COMPANY** : CODTECH IT SOLUTIONS
 - **NAME** : P HIMABINDU
 - **INTERN ID** : CT06DG2711
 - **DOMAIN** : FULL STACK WEB DEVELOPMENT
@@ -45,3 +45,6 @@
 - Implement authentication and user access control.
 - Enable version history and undo/redo functionality.
 - Deploy using cloud services like Render, Vercel, or Heroku.
+
+- **OUTPUT**:
+  ![Image](https://github.com/user-attachments/assets/b2eb8178-e345-4a18-bda2-6e830ed24875)
